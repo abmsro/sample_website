@@ -1,1 +1,4 @@
 <img src="images/kitten.jpg" alt="An adorable kitten">
+<curl -o images/small_twitter_logo.png \
+>     -L https://cdn.learnenough.com/small_twitter_logo.png
+  
